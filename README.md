@@ -1,4 +1,3 @@
-# Hello-World-
-Welcome to codeman Jacoo's world!
+# Hello World!
 
-I am sturgging on the way to be experienced and sophisticated!
+Seize the present, look to the future, let's create infinite possibilities together!
